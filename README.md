@@ -15,7 +15,7 @@ cv2.drawContours -> edge boundary 생성
 #### 시연 과정
 ![방법1](https://github.com/hic9507/find_idcard_edge_using_various_method/assets/65755028/e4787a19-12be-429e-8b8c-3fa14b0d9aa6)
 
-## 방법 2. 호모그래피(Homography)를 이용한 방법
+## 방법 2. 호모그래피(Homography)를 이용한 방법 - rectangle.py (rectangle_initial.py는 이 컨셉을 알려주기 위해 간단한 작업을 한 것임)
 
 ### 사용된 주요 알고리즘
 cv2.EVENT_LBUTTONDOWN -> 마우스 입력 함수
