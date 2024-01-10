@@ -41,3 +41,6 @@ cv2.perspectiveTransform -> 호모그래피를 이용해 좌표들을 원하는 
 5) 4)에서 실제 얻고자 하는 테두리만 남긴다.
 
 6) 실제 신분증의 테두리를 얻는다.
+
+#### 시연 과정
+![시연 과정](https://github.com/hic9507/find_idcard_edge_using_various_method/assets/65755028/6e1f720c-c600-45f6-9325-5131039360e4)
